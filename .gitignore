@@ -43,4 +43,10 @@ Temporary Items
 yolov7/road-data/
 yolov7/road-data
 
+/cluster/work/jorgbor/miniproject/yolov7/road-data/
+
+img*
+
+yolov7
+
 # End of https://www.toptal.com/developers/gitignore/api/ssh,macos
